@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1582484136 source:/home/isaac/Desktop/daa_manual/minAndMax/main.cpp
+	<iostream>
+	<climits>
+
